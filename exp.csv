@@ -1,0 +1,32 @@
+
+date,category,description,amount
+2026-01-03,Food,Groceries,850
+2026-01-05,Transport,Bus pass,500
+2026-01-08,Education,Online course,1200
+2026-01-12,Food,Restaurant,450
+2026-01-15,Shopping,Clothing,1800
+2026-01-20,Bills,Internet bill,700
+2026-02-02,Food,Groceries,950
+2026-02-04,Transport,Fuel,800
+2026-02-07,Education,Books,650
+2026-02-11,Entertainment,Movie,400
+2026-02-14,Food,Restaurant,600
+2026-02-19,Bills,Mobile recharge,350
+2026-03-01,Food,Groceries,1100
+2026-03-04,Transport,Bus pass,500
+2026-03-09,Education,Course subscription,900
+2026-03-13,Shopping,Shoes,1500
+2026-03-17,Entertainment,Concert,1200
+2026-03-21,Bills,Electricity bill,850
+2026-04-02,Food,Groceries,900
+2026-04-06,Transport,Fuel,750
+2026-04-10,Education,Study material,450
+2026-04-14,Food,Restaurant,550
+2026-04-18,Shopping,Accessories,650
+2026-04-22,Bills,Internet bill,700
+2026-05-03,Food,Groceries,1000
+2026-05-06,Transport,Bus pass,500
+2026-05-11,Entertainment,Streaming,299
+2026-05-15,Education,Online course,1400
+2026-05-20,Food,Restaurant,650
+2026-05-24,Bills,Mobile recharge,350
