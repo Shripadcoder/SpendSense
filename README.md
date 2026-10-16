@@ -6,10 +6,10 @@ Streamlit, Pandas, and Plotly.
 
 ## Demo
 
-![SpendSense Dashboard](Screenshots/Screenshot%20(263).png)
-![SpendSense Analysis1](Screenshots/Screenshot%20(264).png)
-![SpendSense Trend](Screenshots/Screenshot%20(265).png)
-![SpendSense Transaction History](Screenshots/Screenshot%20(266).png)
+![SpendSense Dashboard](Screenshot(263).png)
+![SpendSense Analysis1](Screenshot(264).png)
+![SpendSense Trend](Screenshot(265).png)
+![SpendSense Transaction History](Screenshot(266).png)
 
 ## Features
 
