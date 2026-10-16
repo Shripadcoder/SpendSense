@@ -4,6 +4,20 @@
 A personal expense analysis dashboard built with Python,
 Streamlit, Pandas, and Plotly.
 
+## Demo
+
+### Dashboard
+![SpendSense Dashboard](Dashboard.png)
+
+### Analysis
+![SpendSense Analysis](Analysis.png)
+
+### Trend
+![SpendSense Trend](Trend.png)
+
+### Transaction
+![SpendSense Transaction](Transaction.png)
+
 ## Features
 
 - Upload expense data from CSV files
